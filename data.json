@@ -1,0 +1,45 @@
+{"basics":{
+"image":"piggy.jpg",
+"name":"rahul",
+"phoneno":"+91-9629162911",
+"email":"jrahulprince007@gmail.com",
+"Address":"SRKR College,Bhimavaram."
+},
+"CarrerObjectives":
+{
+  "info":"To pursue a challenging career and be a part of progressive organization that gives a scope to enhance my knowledge and utilizing my skills towards the growth of the organization."
+
+},
+"education":[
+  {
+"degree":"Btech",
+"institute":"Sagi RamaKrishanamRaju Engineering College",
+"data":["2016-2020,83%"]
+},
+{
+"degree":"Intermediate",
+"institute":"Sri Chaitanya RB1",
+"data":["2014-2016,84%"]
+},
+{
+  "degree":"SSC",
+  "institute":"Dr kkr",
+  "data":["2015,9.0%"]
+}
+],
+"skills":[
+  {
+    "title":"languages",
+    "data":["c","c++","java","python"]
+
+  },
+  {
+    "title":"database",
+    "data":["sql","mysql","oracle"]
+  },
+  {
+    "title":"operating systems",
+    "data":["ubuntu","windows","andriod"]
+  }
+]
+}
